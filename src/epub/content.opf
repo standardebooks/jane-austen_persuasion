@@ -50,40 +50,44 @@
 		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/105</meta>
 		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/105</meta>
 		<meta property="meta-auth" refines="#subject-10">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young woman meets again with a lover whose marriage proposal she had been persuaded to reject several years ago.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONGDESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Persuasion&lt;/i&gt; was published in 1817, six months after Jane Austen’s death, and is the last novel she completed in full.&lt;/p&gt;
+			&lt;p&gt;The novel tells the story of Anne Elliot, now in her late 20s, the daughter of a vain and improvident baronet, Sir Walter Elliot. The family is in debt and in order to save money, rent their noble property to a retired Admiral and his wife. This brings Anne into unexpected and initially unwelcome contact with the brother of the Admiral’s wife, Captain Frederick Wentworth. Eight years previously, Wentworth had proposed to Anne, only to be rejected by her after she was persuaded by an older friend that he was an unsuitable match. He reacted angrily to this rejection, and she has had no contact with him since.&lt;/p&gt;
+			&lt;p&gt;At the time Anne rejected him, he was a poor naval officer, without his own command. In the years since, however, during the course of the Napoleonic Wars, he has become rich, as many successful captains did during that period. Anne dreads encountering him again, and when she does, he shows no sign of his earlier affection, instead paying his attentions to Anne’s younger sisters-in-law, and Anne must keep her emotions under strict control. Time and circumstance eventually lead to happier results.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Persuasion&lt;/i&gt; was well-regarded on publication and has slowly increased in popularity since. It has been turned into several television series and movies.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/105</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/dli.bengal.10689.4239</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Persuasion</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_persuasion</meta>
 		<dc:creator id="author">Jane Austen</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Austen, Jane</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jane_Austen</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHORNACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79032879</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">Caspar David Friedrich</dc:contributor>
+		<meta property="file-as" refines="#artist">Friedrich, Caspar David </meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Caspar_David_Friedrich</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79059754</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Sharon Partridge</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Partridge, Sharon</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Martin Ward. HTML version by Al Haines.</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<dc:contributor id="transcriber-2">Martin Ward</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Ward, Martin</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="transcriber-3">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Haines, Al</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
