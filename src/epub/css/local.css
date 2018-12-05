@@ -11,23 +11,14 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:letter"] footer{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 	text-indent: 0;
 	text-align: left;
 }
 
-[epub|type~="z3998:valediction"]{
-	text-align: right;
-}
-
 [epub|type~="z3998:sender"]{
 	font-variant: small-caps;
-	text-align: right;
 }
 
 [epub|type~="z3998:postscript"]{
