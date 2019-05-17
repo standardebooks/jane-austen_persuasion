@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Persuasion</dc:title>
 		<meta property="file-as" refines="#title">Persuasion</meta>
 		<dc:subject id="subject-1">England -- Social life and customs -- 19th century -- Fiction</dc:subject>
@@ -39,26 +39,34 @@
 		<dc:subject id="subject-8">Ship captains -- Fiction</dc:subject>
 		<dc:subject id="subject-9">Love stories</dc:subject>
 		<dc:subject id="subject-10">Regency fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/105</meta>
-		<meta property="meta-auth" refines="#subject-10">https://www.gutenberg.org/ebooks/105</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008114941</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85108438</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008114026</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008107225</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008110390</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008103607</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008108881</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008111148</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">Unknown</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman meets again with a lover whose marriage proposal she had been persuaded to reject several years ago.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Persuasion&lt;/i&gt; was published in 1817, six months after Jane Austen’s death, and is the last novel she completed in full.&lt;/p&gt;
 			&lt;p&gt;The novel tells the story of Anne Elliot, now in her late 20s, the daughter of a vain and improvident baronet, Sir Walter Elliot. The family is in debt, and in order to save money they rent their noble property to a retired Admiral and his wife. This brings Anne into unexpected and initially unwelcome contact with the brother of the Admiral’s wife, Captain Frederick Wentworth. Eight years previously, Wentworth had proposed to Anne, only to be rejected by her after she was persuaded by an older friend that he was an unsuitable match. He reacted angrily to this rejection, and she has had no contact with him since.&lt;/p&gt;
 			&lt;p&gt;At the time Anne rejected him, he was a poor naval officer, without his own command. In the years since, however, during the course of the Napoleonic Wars, he has become rich, as many successful captains did during that period. Anne dreads encountering him again, and when she does, he shows no sign of his earlier affection, instead paying his attentions to Anne’s younger sisters-in-law, and Anne must keep her emotions under strict control. Time and circumstance eventually lead to happier results.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Persuasion&lt;/i&gt; was well-regarded on publication and has slowly increased in popularity since. It has been turned into several television series and movies.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/105</dc:source>
 		<dc:source>https://archive.org/details/dli.bengal.10689.4239</dc:source>
