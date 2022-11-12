@@ -70,7 +70,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/105</dc:source>
 		<dc:source>https://archive.org/details/dli.bengal.10689.4239</dc:source>
-		<meta property="se:word-count">83775</meta>
+		<meta property="se:word-count">83774</meta>
 		<meta property="se:reading-ease.flesch">66.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Persuasion_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_persuasion</meta>
