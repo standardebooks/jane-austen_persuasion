@@ -30,3 +30,10 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+
+[epub|type~="z3998:letter"] header{
+	font-style: italic;
+	font-variant: normal;
+	text-align: right;
+}
