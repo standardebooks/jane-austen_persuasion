@@ -63,6 +63,9 @@
 		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">20</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">18</meta>
 		<dc:description id="description">A young woman meets again with a lover whose marriage proposal she had been persuaded to reject several years ago.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Anne Elliot is the under-valued daughter of a vain and improvident English baronet, Sir Walter Elliot. Some years previously, at the urging of a family friend, Anne had rejected a marriage proposal from a young but impoverished naval captain. When she unexpectedly encounters him again, she is filled with regrets.&lt;/p&gt;
