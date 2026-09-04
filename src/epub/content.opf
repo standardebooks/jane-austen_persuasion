@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Persuasion</dc:title>
 		<meta property="file-as" refines="#title">Persuasion</meta>
-		<dc:subject id="subject-1">England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+		<dc:subject id="subject-1">England--Social life and customs--19th century--Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<dc:subject id="subject-3">Young women -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Motherless families -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Rejection (Psychology) -- Fiction</dc:subject>
-		<dc:subject id="subject-6">First loves -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Dysfunctional families -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Ship captains -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Young women--Fiction</dc:subject>
+		<dc:subject id="subject-4">Motherless families--Fiction</dc:subject>
+		<dc:subject id="subject-5">Rejection (Psychology)--Fiction</dc:subject>
+		<dc:subject id="subject-6">First loves--Fiction</dc:subject>
+		<dc:subject id="subject-7">Dysfunctional families--Fiction</dc:subject>
+		<dc:subject id="subject-8">Ship captains--Fiction</dc:subject>
 		<dc:subject id="subject-9">Love stories</dc:subject>
 		<dc:subject id="subject-10">Regency fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
